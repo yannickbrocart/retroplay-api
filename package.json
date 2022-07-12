@@ -1,0 +1,15 @@
+{
+  "name": "retroplay-api-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "retroplay-api-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yannick BROCART",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-pug": "^1.0.0"
+  }
+}
